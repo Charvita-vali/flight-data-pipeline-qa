@@ -1,5 +1,4 @@
 flight_number,airline,dep_delay,arr_delay,flight_status,checked_at
-,empty,14,,active,2026-09-17T21:16:54.184538
 MH9457,Malaysia Airlines,58,,active,2026-09-17T21:16:54.185274
 G36175,GOL,58,,active,2026-09-17T21:16:54.185295
 CX7700,Cathay Pacific,58,,active,2026-09-17T21:16:54.185303
@@ -77,7 +76,6 @@ MH9341,Malaysia Airlines,15,0.0,landed,2026-09-17T21:16:54.185877
 G36316,GOL,15,0.0,landed,2026-09-17T21:16:54.185885
 BA4968,British Airways,15,0.0,landed,2026-09-17T21:16:54.185894
 AT5074,Royal Air Maroc,15,0.0,landed,2026-09-17T21:16:54.185902
-,empty,14,,active,2026-09-17T21:18:50.436412
 MH9457,Malaysia Airlines,58,,active,2026-09-17T21:18:50.438281
 G36175,GOL,58,,active,2026-09-17T21:18:50.438305
 CX7700,Cathay Pacific,58,,active,2026-09-17T21:18:50.438315
