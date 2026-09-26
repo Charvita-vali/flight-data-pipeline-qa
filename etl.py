@@ -13,6 +13,8 @@ def save_flights(dep_iata, arr_iata):
     for f in flights:
         flight_number = f.get("flight", {}).get("iata")
         airline = f.get("airline", {}).get("name")
+        if not flight_number:
+            continue
         dep_airport = f.get("departure", {}).get("airport")
         arr_airport = f.get("arrival", {}).get("airport")
         dep_scheduled = f.get("departure", {}).get("scheduled")
